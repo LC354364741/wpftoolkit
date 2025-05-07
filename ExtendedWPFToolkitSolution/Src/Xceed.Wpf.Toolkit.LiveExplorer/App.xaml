@@ -38,10 +38,10 @@
     <Application.Resources>
 
         <ResourceDictionary>
-         <ResourceDictionary.MergedDictionaries>
-            <ResourceDictionary Source="/Resources/TextBlockStyles.xaml" />
-         </ResourceDictionary.MergedDictionaries>
-      </ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Xceed.Wpf.Toolkit;component/PropertyGrid/Themes/Generic.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
 
 
     </Application.Resources>

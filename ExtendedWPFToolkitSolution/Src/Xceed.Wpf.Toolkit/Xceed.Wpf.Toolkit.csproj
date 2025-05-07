@@ -243,14 +243,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="PropertyGrid\Themes\Aero2.NormalColor.xaml">
+    <Resource Include="PropertyGrid\Themes\Aero2.NormalColor.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="PropertyGrid\Themes\Generic.xaml">
+    </Resource>
+    <Resource Include="PropertyGrid\Themes\Generic.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
-    </Page>
+    </Resource>
     <Page Include="RangeSlider\Themes\Aero2.NormalColor.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

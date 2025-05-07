@@ -651,7 +651,7 @@
       <Rectangle Margin="0,0,0,0"
                  x:Name="Rectangle"
                  Fill="Transparent" />
-      <Path HorizontalAlignment="Center"
+      <Path HorizontalAlignment="Left"
             x:Name="Up_Arrow"
             VerticalAlignment="Center"
             Fill="{StaticResource GlyphBrush}"
@@ -670,7 +670,7 @@
         </Path.RenderTransform>
       </Path>
       <Path Visibility="Collapsed"
-            HorizontalAlignment="Center"
+            HorizontalAlignment="Left"
             x:Name="Down_Arrow"
             VerticalAlignment="Center"
             Fill="{StaticResource GlyphBrush}"

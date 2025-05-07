@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29418.71
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xceed.Wpf.Toolkit.LiveExplorer", "Src\Xceed.Wpf.Toolkit.LiveExplorer\Xceed.Wpf.Toolkit.LiveExplorer.csproj", "{5E7DC9C8-3E27-400C-B84C-29FF9E710CB3}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -23,6 +23,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xceed.Wpf.AvalonDock.Themes.Metro", "Src\Xceed.Wpf.AvalonDock.Themes.Metro\Xceed.Wpf.AvalonDock.Themes.Metro.csproj", "{89286EB4-B4A1-418C-839A-067B00F442D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xceed.Wpf.AvalonDock.Themes.Aero", "Src\Xceed.Wpf.AvalonDock.Themes.Aero\Xceed.Wpf.AvalonDock.Themes.Aero.csproj", "{BA72CCE0-A9FB-4995-B496-7FEC5C87B85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{0B3E8CF6-FA36-4BF7-B780-F6E49ECB6D32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,6 +56,10 @@ Global
 		{BA72CCE0-A9FB-4995-B496-7FEC5C87B85B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{BA72CCE0-A9FB-4995-B496-7FEC5C87B85B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{BA72CCE0-A9FB-4995-B496-7FEC5C87B85B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0B3E8CF6-FA36-4BF7-B780-F6E49ECB6D32}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0B3E8CF6-FA36-4BF7-B780-F6E49ECB6D32}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0B3E8CF6-FA36-4BF7-B780-F6E49ECB6D32}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0B3E8CF6-FA36-4BF7-B780-F6E49ECB6D32}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
